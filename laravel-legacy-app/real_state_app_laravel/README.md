@@ -7,7 +7,7 @@ This section details the Laravel mini-task for the Real Estate Listings API.
 
 1.  **Clone the Repository (if not already done):**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/ShakeelAhmadDev/backend-real-estate-nodejs
     cd real_state_app_laravel
     ```
 2.  **Install Composer Dependencies:**

@@ -16,7 +16,7 @@ This project implements a Real Estate Listings API using Node.js, MySQL, and Mon
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ShakeelAhmadDev/backend-real-estate-nodejs
     cd real-estate-api
     ```
 
