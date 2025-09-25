@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+*.log
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Laravel Project (inside subfolder)
+/laravel-legacy-app/real_state_app_laravel/vendor/
+/laravel-legacy-app/real_state_app_laravel/node_modules/
+/laravel-legacy-app/real_state_app_laravel/.env
+/laravel-legacy-app/real_state_app_laravel/storage/
+/laravel-legacy-app/real_state_app_laravel/bootstrap/cache/
+/laravel-legacy-app/real_state_app_laravel/*.sql
+/laravel-legacy-app/real_state_app_laravel/public/hot
+/laravel-legacy-app/real_state_app_laravel/public/storage
+/laravel-legacy-app/real_state_app_laravel/.idea/
